@@ -76,9 +76,11 @@ Este dashboard foi desenvolvido para resolver esses problemas por meio de uma an
 
 ```id="proj123"
 📂 powerbi-financial-hr-dashboard
- ┣ 📂 imagens
- ┃ ┣ dashboard.png
- ┃ ┗ insights.png
+ ┣ 📂 dados
+ ┃ ┣ BaseCargos.xlsx
+ ┃ ┣ BaseClientes.xlsx
+ ┃ ┣ BaseFuncionarios.xlsx
+ ┃ ┗ BaseNivel.xlsx
  ┣ 📄 dashboard.pbix
  ┗ 📄 README.md
 ```
