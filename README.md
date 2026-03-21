@@ -1,24 +1,37 @@
-# 📊 Power BI Financial & HR Dashboard
+# 📊 Dashboard de Análise Financeira e Recursos Humanos | Power BI
 
-## 📌 Sobre o Projeto
+## 📌 Visão Geral
 
-Este projeto consiste na criação de um dashboard interativo no Power BI para análise integrada de dados financeiros, clientes e recursos humanos.
+Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com foco na análise integrada de dados financeiros, clientes e recursos humanos.
 
-O objetivo é fornecer insights estratégicos que auxiliem na tomada de decisão dentro de uma empresa, combinando diferentes áreas em uma única visualização.
+A proposta é centralizar informações estratégicas em uma única visualização, permitindo uma análise clara e eficiente para apoio à tomada de decisão.
 
 ---
 
-## 🚀 Funcionalidades
+## 🎯 Problema de Negócio
+
+Muitas empresas enfrentam dificuldades em consolidar dados de diferentes áreas, como financeiro, clientes e recursos humanos. Isso pode gerar:
+
+* Falta de visibilidade sobre o faturamento
+* Dificuldade em identificar clientes mais relevantes
+* Baixo controle sobre custos com funcionários
+* Falta de insights sobre produtividade
+
+Este dashboard foi desenvolvido para resolver esses problemas por meio de uma análise unificada.
+
+---
+
+## 📊 Funcionalidades
 
 ### 💰 Análise Financeira
 
-* Evolução da receita ao longo do tempo (ano e mês)
-* Ticket médio dos contratos
+* Evolução da receita ao longo do tempo (mensal e anual)
+* Cálculo de ticket médio
 * Identificação de variações no faturamento
 
 ### 👥 Análise de Clientes
 
-* Classificação por nível de importância
+* Segmentação por nível de importância
 * Identificação dos principais clientes (Top 10)
 * Análise de concentração de receita
 
@@ -26,42 +39,42 @@ O objetivo é fornecer insights estratégicos que auxiliem na tomada de decisão
 
 * Média salarial por cargo
 * Custo total com funcionários
-* Distribuição de funcionários por área
+* Distribuição por área
 * Status dos colaboradores (ativo/demitido)
 
 ### ⏱️ Produtividade
 
-* Funcionários com maior número de horas extras
-* Monitoramento de acessos
+* Análise de horas extras
+* Monitoramento de atividade
 * Tempo médio por nível hierárquico
 
 ### 🎁 Benefícios
 
-* Análise de benefícios (plano de saúde e odontológico)
-* Comparação entre funcionários com e sem benefícios
+* Distribuição de benefícios (plano de saúde e odontológico)
+* Comparação entre colaboradores com e sem benefícios
 
 ---
 
-## 📊 Insights Obtidos
+## 📈 Principais Insights
 
-* Concentração de receita em clientes de alto valor
-* Variações no faturamento ao longo do tempo
-* Impacto dos custos com funcionários
-* Identificação de possíveis gargalos operacionais
+* Forte concentração de receita em poucos clientes
+* Oscilações no faturamento ao longo do tempo
+* Alto impacto dos custos com funcionários
+* Identificação de colaboradores com alta carga de horas extras
 
 ---
 
 ## 🛠️ Ferramentas Utilizadas
 
 * Power BI
-* Modelagem de dados
-* Análise de dados
+* Modelagem de Dados
+* Análise de Dados
 
 ---
 
 ## 📁 Estrutura do Projeto
 
-```
+```id="proj123"
 📂 powerbi-financial-hr-dashboard
  ┣ 📂 imagens
  ┃ ┣ dashboard.png
@@ -74,18 +87,25 @@ O objetivo é fornecer insights estratégicos que auxiliem na tomada de decisão
 
 ## 📸 Preview do Dashboard
 
-*(Adicione aqui prints do seu dashboard)*
+Adicione aqui imagens do dashboard para visualização.
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🚀 Como Utilizar
 
-Este projeto foi desenvolvido com foco em portfólio, demonstrando habilidades em:
+1. Baixe o arquivo `.pbix`
+2. Abra no Power BI Desktop
+3. Explore os filtros e gráficos interativos
 
-* Análise de dados
-* Visualização de dados
+---
+
+## 🎯 Habilidades Demonstradas
+
+* Análise de Dados
+* Visualização de Dados
 * Business Intelligence
-* Tomada de decisão baseada em dados
+* Pensamento Analítico
+* Tomada de decisão orientada a dados
 
 ---
 
@@ -94,3 +114,7 @@ Este projeto foi desenvolvido com foco em portfólio, demonstrando habilidades e
 Marcos Vinícius de Jesus da Silva
 
 ---
+
+## 📬 Contato
+
+
