@@ -93,7 +93,7 @@ powerbi-financial-hr-dashboard
 
 ## 📸 Preview do Dashboard
 
-![Dashboard](imagens/dashboard.png)
+![Dashboard](imagens/comercial.png)
 
 ---
 
