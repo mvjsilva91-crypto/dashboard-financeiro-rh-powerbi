@@ -4,20 +4,13 @@
 
 Este projeto apresenta um dashboard interativo desenvolvido no Power BI, com foco na análise integrada de dados financeiros, clientes e recursos humanos.
 
-A proposta é centralizar informações estratégicas em uma única visualização, permitindo uma análise clara e eficiente para apoio à tomada de decisão.
+O objetivo é centralizar informações estratégicas em uma única visualização, permitindo uma análise clara e eficiente para apoio à tomada de decisão.
 
 ---
 
-## 🎯 Problema de Negócio
+## 🎯 Contexto do Projeto
 
-Muitas empresas enfrentam dificuldades em consolidar dados de diferentes áreas, como financeiro, clientes e recursos humanos. Isso pode gerar:
-
-* Falta de visibilidade sobre o faturamento
-* Dificuldade em identificar clientes mais relevantes
-* Baixo controle sobre custos com funcionários
-* Falta de insights sobre produtividade
-
-Este dashboard foi desenvolvido para resolver esses problemas por meio de uma análise unificada.
+Este projeto foi desenvolvido como parte de atividades acadêmicas e posteriormente aprimorado para compor meu portfólio profissional, com foco em Business Intelligence e Análise de Dados.
 
 ---
 
@@ -39,7 +32,7 @@ Este dashboard foi desenvolvido para resolver esses problemas por meio de uma an
 
 * Média salarial por cargo
 * Custo total com funcionários
-* Distribuição por área
+* Distribuição de colaboradores por área
 * Status dos colaboradores (ativo/demitido)
 
 ### ⏱️ Produtividade
@@ -57,9 +50,9 @@ Este dashboard foi desenvolvido para resolver esses problemas por meio de uma an
 
 ## 📈 Principais Insights
 
-* Forte concentração de receita em poucos clientes
+* Concentração de receita em poucos clientes estratégicos
 * Oscilações no faturamento ao longo do tempo
-* Alto impacto dos custos com funcionários
+* Impacto significativo dos custos com funcionários
 * Identificação de colaboradores com alta carga de horas extras
 
 ---
@@ -72,24 +65,43 @@ Este dashboard foi desenvolvido para resolver esses problemas por meio de uma an
 
 ---
 
+## 📂 Fonte de Dados
+
+Os dados utilizados neste projeto foram estruturados a partir de arquivos Excel, contendo informações relacionadas a:
+
+* Clientes
+* Funcionários
+* Financeiro
+
+---
+
 ## 📁 Estrutura do Projeto
 
-```id="proj123"
-📂 powerbi-financial-hr-dashboard
- ┣ 📂 dados
- ┃ ┣ BaseCargos.xlsx
- ┃ ┣ BaseClientes.xlsx
- ┃ ┣ BaseFuncionarios.xlsx
- ┃ ┗ BaseNivel.xlsx
- ┣ 📄 dashboard.pbix
- ┗ 📄 README.md
+```
+powerbi-financial-hr-dashboard
+│
+│
+├── dados
+├── imagens
+├── documentos
+│
+├── README.md
+├── dashboard.pbix
 ```
 
 ---
 
 ## 📸 Preview do Dashboard
 
-Adicione aqui imagens do dashboard para visualização.
+![Dashboard](imagens/dashboard.png)
+
+---
+
+## 📄 Documentação
+
+O projeto conta com um relatório em PDF com a descrição das análises realizadas:
+
+📎 [Visualizar PDF](documentos/dashboard-powerbi.pdf)
 
 ---
 
@@ -119,4 +131,4 @@ Marcos Vinícius de Jesus da Silva
 
 ## 📬 Contato
 
-
+Aberto a oportunidades na área de dados e tecnologia.
