@@ -82,8 +82,8 @@ powerbi-financial-hr-dashboard
 │
 │
 ├── dados
-├── imagens
 ├── documentos
+├── imagens
 │
 ├── README.md
 ├── dashboard.pbix
