@@ -129,6 +129,4 @@ Marcos Vinícius de Jesus da Silva
 
 ---
 
-## 📬 Contato
 
-Aberto a oportunidades na área de dados e tecnologia.
